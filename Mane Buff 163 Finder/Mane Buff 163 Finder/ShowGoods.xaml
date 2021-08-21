@@ -1,0 +1,17 @@
+﻿<mah:MetroWindow x:Class="Mane_Buff_163_Finder.ShowGoods"
+        xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Mane_Buff_163_Finder"
+        mc:Ignorable="d"
+        Title="List Find Goods" Height="430" Width="820" Loaded="MetroWindow_Loaded">
+    <ScrollViewer>
+        <StackPanel>
+            <ListBox x:Name="listbox_view" MouseDoubleClick="listbox_view_MouseDoubleClick">
+            </ListBox>
+        </StackPanel>
+    </ScrollViewer>
+</mah:MetroWindow>
+

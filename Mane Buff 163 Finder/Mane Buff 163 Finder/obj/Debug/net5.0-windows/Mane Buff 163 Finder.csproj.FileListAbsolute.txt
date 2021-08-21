@@ -1,0 +1,52 @@
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\Mane Buff 163 Finder.exe
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\Mane Buff 163 Finder.deps.json
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\Mane Buff 163 Finder.runtimeconfig.json
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\Mane Buff 163 Finder.runtimeconfig.dev.json
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\Mane Buff 163 Finder.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\ref\Mane Buff 163 Finder.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\Mane Buff 163 Finder.pdb
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\Mane Buff 163 Finder_MarkupCompile.cache
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\Mane Buff 163 Finder_MarkupCompile.lref
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\Mane Buff 163 Finder.g.resources
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\Mane Buff 163 Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\Mane Buff 163 Finder.AssemblyInfoInputs.cache
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\Mane Buff 163 Finder.AssemblyInfo.cs
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\Mane Buff 163 Finder.csproj.CoreCompileInputs.cache
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\Mane Buff 163 Finder.csproj.CopyComplete
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\Mane Buff 163 Finder.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\ref\Mane Buff 163 Finder.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\Mane Buff 163 Finder.pdb
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\Mane Buff 163 Finder.genruntimeconfig.cache
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\ControlzEx.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\MahApps.Metro.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\App.baml
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\Setting.g.cs
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\Setting.baml
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\ShowGoods.g.cs
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\ShowGoods.baml
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\MihaZupan.HttpToSocks5Proxy.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\Mane Buff 163 Finder.csproj.AssemblyReference.cache
