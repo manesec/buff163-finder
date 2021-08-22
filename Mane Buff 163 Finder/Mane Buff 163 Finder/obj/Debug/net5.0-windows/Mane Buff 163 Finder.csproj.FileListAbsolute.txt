@@ -50,3 +50,5 @@ C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finde
 C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\MihaZupan.HttpToSocks5Proxy.dll
 C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
 C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\obj\Debug\net5.0-windows\Mane Buff 163 Finder.csproj.AssemblyReference.cache
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\ToastNotifications.Messages.dll
+C:\Users\Mane\Documents\Github\buff163-finder\buff163-finder\Mane Buff 163 Finder\Mane Buff 163 Finder\bin\Debug\net5.0-windows\ToastNotifications.dll

@@ -43,8 +43,9 @@ namespace Mane_Buff_163_Finder
                     catch (Exception e)
                     {
                         Debug.WriteLine(e.ToString());
+                        Quanju.Status.thread_status = "Need to login ?";
                     }
-                    int delay_sleep = Quanju.Fetch.Page_Delay + rd.Next(0, Quanju.Fetch.Page_Delay_Random);
+                    int delay_sleep = Quanju.Fetch.Page_Delay + rd.Next(0, Quanju.Fetch.Page_Delay_Random)+10;
                     Quanju.Status.status = $"{i}/{page} Delaying {delay_sleep} s...";
                     delay_sleep = delay_sleep * 1000;
 
@@ -60,7 +61,7 @@ namespace Mane_Buff_163_Finder
             if (Quanju.Fetch.FetchDota)
             {
                 Random rd = new Random();
-                int page = Quanju.Fetch.Page_Max + rd.Next(0, Quanju.Fetch.Page_Max_Random);
+                int page = Quanju.Fetch.Page_Max + rd.Next(0, Quanju.Fetch.Page_Max_Random)+10;
                 for (int i = 1; i <= page; i++)
                 {
                     try
@@ -70,6 +71,7 @@ namespace Mane_Buff_163_Finder
                     }catch(Exception e)
                     {
                         Debug.WriteLine(e.ToString());
+                        Quanju.Status.thread_status = "Need to login ?";
                     }
                     int delay_sleep = Quanju.Fetch.Page_Delay + rd.Next(0, Quanju.Fetch.Page_Delay_Random);
                     Quanju.Status.status = $"{i}/{page} Delaying {delay_sleep} s...";

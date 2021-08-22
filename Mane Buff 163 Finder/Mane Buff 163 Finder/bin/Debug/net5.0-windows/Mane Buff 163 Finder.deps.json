@@ -11,7 +11,9 @@
           "HttpToSocks5Proxy": "1.4.0",
           "MahApps.Metro": "2.4.7",
           "Microsoft.Data.Sqlite": "5.0.9",
-          "Newtonsoft.Json": "13.0.1"
+          "Newtonsoft.Json": "13.0.1",
+          "ToastNotifications.Messages.Net5": "3.0.1",
+          "ToastNotifications.Net5": "3.0.0"
         },
         "runtime": {
           "Mane Buff 163 Finder.dll": {}
@@ -195,7 +197,26 @@
         }
       },
       "System.Memory/4.5.3": {},
-      "System.Text.Json/4.7.2": {}
+      "System.Text.Json/4.7.2": {},
+      "ToastNotifications.Messages.Net5/3.0.1": {
+        "dependencies": {
+          "ToastNotifications.Net5": "3.0.0"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/ToastNotifications.Messages.dll": {
+            "assemblyVersion": "3.0.1.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "ToastNotifications.Net5/3.0.0": {
+        "runtime": {
+          "lib/net5.0-windows7.0/ToastNotifications.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
     }
   },
   "libraries": {
@@ -294,6 +315,20 @@
       "sha512": "sha512-TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
       "path": "system.text.json/4.7.2",
       "hashPath": "system.text.json.4.7.2.nupkg.sha512"
+    },
+    "ToastNotifications.Messages.Net5/3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qwKhwbb83BvCk1byhT7l5oZ/FSBizyXnkxFGpVI3yM8YLudHQDf0wtGggKKhwCbsjAdSM54Bz6MnrP/mUgn6Ug==",
+      "path": "toastnotifications.messages.net5/3.0.1",
+      "hashPath": "toastnotifications.messages.net5.3.0.1.nupkg.sha512"
+    },
+    "ToastNotifications.Net5/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UXi/SB6z01RmR7dMDBPP1rzV3/MIUGkeLL4KITEB2NlRbJRMVON/jvWttNA/XCDTcmwQJpD9S+JvlIAn2ttJOA==",
+      "path": "toastnotifications.net5/3.0.0",
+      "hashPath": "toastnotifications.net5.3.0.0.nupkg.sha512"
     }
   }
 }

@@ -13,6 +13,10 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using MahApps.Metro.Controls;
+using ToastNotifications;
+using ToastNotifications.Lifetime;
+using ToastNotifications.Messages;
+using ToastNotifications.Position;
 
 namespace Mane_Buff_163_Finder
 {
@@ -56,6 +60,8 @@ namespace Mane_Buff_163_Finder
             l_stop.Content = $"Stop on : {Quanju.Status.stoptime.ToString("dd/MM HH:mm")}";
             l_new.Content = $"New {Quanju.Status.new_good} items";
             l_thread.Content = Quanju.Status.thread_status;
+
+
         }
 
         private void SettingBTN_Click(object sender, RoutedEventArgs e)

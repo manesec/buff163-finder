@@ -55,6 +55,14 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "ToastNotifications.Messages.Net5": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "ToastNotifications.Net5": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             }
           },
           "imports": [

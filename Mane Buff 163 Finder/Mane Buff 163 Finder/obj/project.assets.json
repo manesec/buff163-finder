@@ -213,6 +213,33 @@
         "runtime": {
           "lib/netcoreapp3.0/System.Text.Json.dll": {}
         }
+      },
+      "ToastNotifications.Messages.Net5/3.0.1": {
+        "type": "package",
+        "dependencies": {
+          "ToastNotifications.Net5": "3.0.0"
+        },
+        "compile": {
+          "lib/net5.0-windows7.0/ToastNotifications.Messages.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/ToastNotifications.Messages.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App"
+        ]
+      },
+      "ToastNotifications.Net5/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0-windows7.0/ToastNotifications.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/ToastNotifications.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App"
+        ]
       }
     }
   },
@@ -478,6 +505,30 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "ToastNotifications.Messages.Net5/3.0.1": {
+      "sha512": "qwKhwbb83BvCk1byhT7l5oZ/FSBizyXnkxFGpVI3yM8YLudHQDf0wtGggKKhwCbsjAdSM54Bz6MnrP/mUgn6Ug==",
+      "type": "package",
+      "path": "toastnotifications.messages.net5/3.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0-windows7.0/ToastNotifications.Messages.dll",
+        "toastnotifications.messages.net5.3.0.1.nupkg.sha512",
+        "toastnotifications.messages.net5.nuspec"
+      ]
+    },
+    "ToastNotifications.Net5/3.0.0": {
+      "sha512": "UXi/SB6z01RmR7dMDBPP1rzV3/MIUGkeLL4KITEB2NlRbJRMVON/jvWttNA/XCDTcmwQJpD9S+JvlIAn2ttJOA==",
+      "type": "package",
+      "path": "toastnotifications.net5/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0-windows7.0/ToastNotifications.dll",
+        "toastnotifications.net5.3.0.0.nupkg.sha512",
+        "toastnotifications.net5.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -485,7 +536,9 @@
       "HttpToSocks5Proxy >= 1.4.0",
       "MahApps.Metro >= 2.4.7",
       "Microsoft.Data.Sqlite >= 5.0.9",
-      "Newtonsoft.Json >= 13.0.1"
+      "Newtonsoft.Json >= 13.0.1",
+      "ToastNotifications.Messages.Net5 >= 3.0.1",
+      "ToastNotifications.Net5 >= 3.0.0"
     ]
   },
   "packageFolders": {
@@ -542,6 +595,14 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.1, )"
+          },
+          "ToastNotifications.Messages.Net5": {
+            "target": "Package",
+            "version": "[3.0.1, )"
+          },
+          "ToastNotifications.Net5": {
+            "target": "Package",
+            "version": "[3.0.0, )"
           }
         },
         "imports": [

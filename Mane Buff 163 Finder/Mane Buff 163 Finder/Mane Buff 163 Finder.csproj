@@ -12,6 +12,8 @@
     <PackageReference Include="MahApps.Metro" Version="2.4.7" />
     <PackageReference Include="Microsoft.Data.Sqlite" Version="5.0.9" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="ToastNotifications.Messages.Net5" Version="3.0.1" />
+    <PackageReference Include="ToastNotifications.Net5" Version="3.0.0" />
   </ItemGroup>
 
   <ItemGroup>
